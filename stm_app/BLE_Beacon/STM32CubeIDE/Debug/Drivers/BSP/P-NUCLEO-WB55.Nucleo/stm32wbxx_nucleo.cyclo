@@ -1,0 +1,10 @@
+stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	1
+stm32wbxx_nucleo.c:185:10:BSP_GetVersion	1
+stm32wbxx_nucleo.c:203:6:BSP_LED_Init	1
+stm32wbxx_nucleo.c:231:6:BSP_LED_DeInit	1
+stm32wbxx_nucleo.c:251:6:BSP_LED_On	1
+stm32wbxx_nucleo.c:265:6:BSP_LED_Off	1
+stm32wbxx_nucleo.c:279:6:BSP_LED_Toggle	1
+stm32wbxx_nucleo.c:306:6:BSP_PB_Init	6
+stm32wbxx_nucleo.c:350:6:BSP_PB_DeInit	1
+stm32wbxx_nucleo.c:368:10:BSP_PB_GetState	1
